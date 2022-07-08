@@ -444,7 +444,7 @@ class Rewards extends StatelessWidget {
                 height:size.height * 0.03,
               ),
               Container(
-                margin: const EdgeInsets.symmetric(horizontal: 20),
+                margin: const EdgeInsets.symmetric(horizontal: 30),
                 height: size.height * 0.065,
                 width: double.infinity,
                 child: const Center(
