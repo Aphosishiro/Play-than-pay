@@ -43,7 +43,7 @@ class _SportBookState extends State<SportBook> {
           button3 = false;
           button4 = false;
           button5 = false;
-          button5 = false;
+          button6 = false;
         });
       } else {
         setState(() {

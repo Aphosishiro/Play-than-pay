@@ -43,7 +43,7 @@ class _CreditState extends State<Credit> {
           button3 = false;
           button4 = false;
           button5 = false;
-          button5 = false;
+          button6 = false;
         });
       } else {
         setState(() {
